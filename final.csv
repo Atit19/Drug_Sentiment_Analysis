@@ -1,0 +1,335 @@
+condition,drugname,cumilative
+Depression,Tryptophan,3.360085227272727
+Depression,Vyvanse,4.341269841269842
+Depression,Fetzima,5.4055174654917195
+Depression,Oleptro,5.412037037037037
+Depression,Strattera,5.476041666666667
+Depression,Pamelor,5.509455128205128
+Depression,Levomilnacipran,5.571053714946839
+Depression,Luvox CR,5.603472222222222
+Depression,Aplenzin,5.65625
+Depression,Lithium,5.946658128522712
+Depression,Atomoxetine,5.9586805555555555
+Depression,Effexor,5.974282154584804
+Depression,Zyprexa,6.036026655596702
+Depression,Vortioxetine,6.085771970596781
+Depression,Trintellix,6.153578048022454
+Depression,Olanzapine,6.235511185213896
+Depression,Cymbalta,6.264007585367738
+Depression,Vilazodone,6.346219165309303
+Depression,Venlafaxine,6.3656385144925
+Depression,Duloxetine,6.406538655424693
+Depression,Nortriptyline,6.438537660596484
+Depression,Imipramine,6.445757312447654
+Depression,Paroxetine,6.480994828525245
+Depression,Risperidone,6.523498922243193
+Depression,Abilify,6.525282795677176
+Depression,Paxil,6.5494952459692275
+Depression,Viibryd,6.593063300439851
+Depression,Armodafinil,6.620868916962667
+Depression,Nuvigil,6.674762471850539
+Depression,Lisdexamfetamine,6.675597718253968
+Depression,Quetiapine,6.7118939256741585
+Depression,Seroquel,6.7335158920027345
+Depression,Paxil CR,6.734627829635642
+Depression,Trazodone,6.745262847731025
+Depression,Sertraline,6.756346006388679
+Depression,Aripiprazole,6.758616925995707
+Depression,Wellbutrin SR,6.760036016954024
+Depression,Fluvoxamine,6.8005960648148145
+Depression,Pristiq,6.82610310826581
+Depression,Fluoxetine,6.829977279191847
+Depression,Prozac,6.846340925618289
+Depression,Desvenlafaxine,6.853315715106109
+Depression,Zoloft,6.8559795781797765
+Depression,Rexulti,6.880560839984668
+Depression,Mirtazapine,6.896085927073518
+Depression,Celexa,6.902381303463482
+Depression,Seroquel XR,6.904147507196352
+Depression,Wellbutrin,6.915601470600846
+Depression,Effexor XR,6.936249415698269
+Depression,Bupropion,6.944248837603726
+Depression,Lexapro,6.967120981678015
+Depression,Risperdal,6.978541666666667
+Depression,Citalopram,6.997345701262923
+Depression,Doxepin,7.013062032664306
+Depression,Escitalopram,7.045797331966943
+Depression,Deplin,7.06170611177805
+Depression,Paliperidone,7.075132275132275
+Depression,Budeprion XL,7.076632756401172
+Depression,Wellbutrin XL,7.124264914496909
+Depression,Desyrel,7.148804012345678
+Depression,Anafranil,7.156362847222222
+Depression,Lamotrigine,7.298923333193685
+Depression,L-methylfolate,7.324082263017018
+Depression,Remeron,7.362737961486787
+Depression,Modafinil,7.419248170196266
+Depression,Selegiline,7.437003695709054
+Depression,Remeron SolTab,7.488333333333334
+Depression,S-adenosylmethionine,7.494224352036852
+Depression,Brexpiprazole,7.497981803443988
+Depression,Nardil,7.524437042673761
+Depression,Elavil,7.53507265927609
+Depression,Tranylcypromine,7.5753050327830325
+Depression,Amitriptyline,7.579827031958135
+Depression,Budeprion SR,7.5959485694044515
+Depression,St. john's wort,7.606306245313022
+Depression,Emsam,7.610884929114095
+Depression,Nefazodone,7.674621135887986
+Depression,Parnate,7.700429792282792
+Depression,Symbyax,7.702725226162726
+Depression,Phenelzine,7.71188748462186
+Depression,Sinequan,7.782986111111112
+Depression,Protriptyline,7.834022038567493
+Depression,Vivactil,7.834022038567493
+Depression,Clomipramine,7.835289136105897
+Depression,Limbitrol,7.881944444444445
+Depression,Tramadol,7.893951125482773
+Depression,Fluoxetine / olanzapine,7.911303106615606
+Depression,Methylphenidate,7.937616154783768
+Depression,Xanax,7.94460324474341
+Depression,Alprazolam,8.0080105817502
+Depression,Provigil,8.008033459595959
+Depression,Serzone,8.063131313131313
+Depression,Isocarboxazid,8.067054473304474
+Depression,Marplan,8.067054473304474
+Depression,Desipramine,8.094286616161616
+Depression,Luvox,8.199259259259259
+Depression,Amoxapine,8.28125
+Depression,Norpramin,8.285984848484848
+Depression,Amitriptyline / chlordiazepoxide,8.296296296296296
+Depression,Niravam,8.383928571428571
+Depression,Niacin,8.405898700100055
+Depression,Xanax XR,8.4375
+Depression,Methylin ER,8.453645833333333
+Depression,Asendin,8.458333333333334
+Depression,Maprotiline,8.776515151515152
+"Diabetes, Type 2",Acarbose,3.051041666666667
+"Diabetes, Type 2",Kazano,3.5
+"Diabetes, Type 2",Humalog KwikPen,4.512731481481481
+"Diabetes, Type 2",Glyburide / metformin,4.573660714285714
+"Diabetes, Type 2",Glipizide / metformin,4.885416666666666
+"Diabetes, Type 2",Basaglar,5.016137566137567
+"Diabetes, Type 2",Albiglutide,5.026064332859968
+"Diabetes, Type 2",Alogliptin,5.04369212962963
+"Diabetes, Type 2",Nesina,5.04369212962963
+"Diabetes, Type 2",Linagliptin,5.135899262131901
+"Diabetes, Type 2",Novolog,5.167902988215488
+"Diabetes, Type 2",Colesevelam,5.232142857142857
+"Diabetes, Type 2",Tradjenta,5.284350491880254
+"Diabetes, Type 2",Dapagliflozin,5.310117780335628
+"Diabetes, Type 2",Kombiglyze XR,5.357920374378708
+"Diabetes, Type 2",Welchol,5.447916666666666
+"Diabetes, Type 2",Tanzeum,5.532589830804117
+"Diabetes, Type 2",Rosiglitazone,5.567986111111111
+"Diabetes, Type 2",Pioglitazone,5.643075518954426
+"Diabetes, Type 2",Farxiga,5.659773072413698
+"Diabetes, Type 2",Metformin / sitagliptin,5.689583333333333
+"Diabetes, Type 2",Sitagliptin,5.77534644461363
+"Diabetes, Type 2",Trulicity,5.856267577740158
+"Diabetes, Type 2",Actos,5.857247683135468
+"Diabetes, Type 2",Januvia,5.902190619631808
+"Diabetes, Type 2",Avandia,5.9109375
+"Diabetes, Type 2",Dulaglutide,5.989730753013217
+"Diabetes, Type 2",Empagliflozin / linagliptin,6.050967261904762
+"Diabetes, Type 2",Canagliflozin,6.0694704936334665
+"Diabetes, Type 2",Metformin,6.120312321371852
+"Diabetes, Type 2",Saxagliptin,6.153144886363636
+"Diabetes, Type 2",Toujeo,6.172749318582652
+"Diabetes, Type 2",Invokana,6.179204879421081
+"Diabetes, Type 2",Glyxambi,6.249674479166667
+"Diabetes, Type 2",Glucophage,6.277901002506266
+"Diabetes, Type 2",Janumet,6.317913284025609
+"Diabetes, Type 2",Jardiance,6.369311472141108
+"Diabetes, Type 2",Avandamet,6.44375
+"Diabetes, Type 2",Insulin degludec,6.510988239914021
+"Diabetes, Type 2",Onglyza,6.571155589990817
+"Diabetes, Type 2",ActoPlus Met,6.578373015873016
+"Diabetes, Type 2",Novolin 70 / 30,6.604910714285714
+"Diabetes, Type 2",Insulin lispro,6.616128117913832
+"Diabetes, Type 2",Lantus,6.6838298861632195
+"Diabetes, Type 2",Bydureon,6.6907729889779395
+"Diabetes, Type 2",Glipizide,6.7121781792070125
+"Diabetes, Type 2",Empagliflozin,6.748786663344013
+"Diabetes, Type 2",Levemir,6.7816621727038395
+"Diabetes, Type 2",Afrezza,6.803094629637662
+"Diabetes, Type 2",Exenatide,6.81536348818182
+"Diabetes, Type 2",Humulin N,6.9383333333333335
+"Diabetes, Type 2",Insulin isophane,6.9383333333333335
+"Diabetes, Type 2",Insulin detemir,6.952240403996356
+"Diabetes, Type 2",Insulin glargine,6.952531017079629
+"Diabetes, Type 2","Insulin inhalation, rapid acting",6.9636695537693285
+"Diabetes, Type 2",Insulin aspart,7.026414943081609
+"Diabetes, Type 2",Glyburide,7.034505208333334
+"Diabetes, Type 2",Tresiba,7.046010251322752
+"Diabetes, Type 2",Jentadueto,7.058783068783069
+"Diabetes, Type 2",Liraglutide,7.059534819236975
+"Diabetes, Type 2",Glimepiride,7.115593361562474
+"Diabetes, Type 2",Glucotrol,7.142857142857143
+"Diabetes, Type 2",Toujeo Solostar,7.220568783068782
+"Diabetes, Type 2",Victoza,7.224914490301508
+"Diabetes, Type 2",Lantus Solostar,7.392345370036342
+"Diabetes, Type 2",Byetta,7.4380227006720805
+"Diabetes, Type 2",Amaryl,7.44142156862745
+"Diabetes, Type 2",Symlin,7.5
+"Diabetes, Type 2",Insulin lispro / insulin lispro protamine,7.652083333333333
+"Diabetes, Type 2",GlipiZIDE XL,7.652651515151515
+"Diabetes, Type 2",Humalog,7.733928571428571
+"Diabetes, Type 2",Repaglinide,7.748040674603175
+"Diabetes, Type 2",Xigduo XR,7.963703177609428
+"Diabetes, Type 2",Novolin N,8.0
+"Diabetes, Type 2",Chromium picolinate,8.035493827160494
+"Diabetes, Type 2",Prandin,8.060887896825397
+"Diabetes, Type 2",Synjardy,8.145833333333334
+"Diabetes, Type 2",Glucovance,8.25
+"Diabetes, Type 2",Glumetza,8.329377798127798
+"Diabetes, Type 2",Glucophage XR,8.373931623931623
+"Diabetes, Type 2",Exubera,8.491964285714285
+"Diabetes, Type 2",Insulin aspart / insulin aspart protamine,8.508557800224466
+"Diabetes, Type 2",NovoLog Mix 70 / 30,8.508557800224466
+"Diabetes, Type 2",Insulin isophane / insulin regular,8.589285714285715
+"Diabetes, Type 2",Insulin glulisine,9.041666666666668
+"Diabetes, Type 2",NovoLog FlexPen,9.607142857142858
+"Diabetes, Type 2",Glimepiride / pioglitazone,9.75
+"Diabetes, Type 2",Glyset,9.75
+"Diabetes, Type 2",Humalog Mix 75 / 25,9.7625
+High Blood Pressure,Nitro-Dur,3.232142857142857
+High Blood Pressure,Nitroglycerin,3.232142857142857
+High Blood Pressure,Hydralazine / hydrochlorothiazide / reserpine,3.375
+High Blood Pressure,Amiloride,3.422222222222222
+High Blood Pressure,Midamor,3.422222222222222
+High Blood Pressure,Cardizem LA,3.9375
+High Blood Pressure,Hydralazine,4.72419000873421
+High Blood Pressure,Calan SR,4.765625
+High Blood Pressure,Prazosin,4.841448337542087
+High Blood Pressure,Carvedilol,4.904885132124724
+High Blood Pressure,Lotensin,4.916666666666667
+High Blood Pressure,Aldomet,4.945375457875458
+High Blood Pressure,Coreg,5.08441550925926
+High Blood Pressure,Torsemide,5.140902777777778
+High Blood Pressure,Chlorthalidone,5.220781857031857
+High Blood Pressure,Norvasc,5.376452985671736
+High Blood Pressure,Inderal,5.424857202982203
+High Blood Pressure,Hytrin,5.443181818181818
+High Blood Pressure,Quinapril,5.485000763125764
+High Blood Pressure,Tenex,5.515625
+High Blood Pressure,Amlodipine,5.530027827981184
+High Blood Pressure,Aldactone,5.531407712657713
+High Blood Pressure,Atacand,5.6171875
+High Blood Pressure,Lisinopril,5.6479296546737165
+High Blood Pressure,Avapro,5.663486791657081
+High Blood Pressure,Irbesartan,5.674463610650479
+High Blood Pressure,Candesartan,5.679910714285714
+High Blood Pressure,Dyazide,5.792038690476191
+High Blood Pressure,Losartan,5.79609393689918
+High Blood Pressure,Perindopril,5.80745584148362
+High Blood Pressure,Procardia XL,5.81925481000481
+High Blood Pressure,Hydrochlorothiazide,5.866699887689471
+High Blood Pressure,Pindolol,5.875
+High Blood Pressure,Verapamil,5.897061011904762
+High Blood Pressure,Amlodipine / benazepril,5.912357455507456
+High Blood Pressure,Valsartan,5.943859038688585
+High Blood Pressure,Zestril,5.98203656462585
+High Blood Pressure,Labetalol,6.016732804232804
+High Blood Pressure,Normodyne,6.016732804232804
+High Blood Pressure,Hydrochlorothiazide / triamterene,6.02619476500251
+High Blood Pressure,Exforge,6.046032370346193
+High Blood Pressure,Bisoprolol / hydrochlorothiazide,6.065385733860521
+High Blood Pressure,Ziac,6.084385038572539
+High Blood Pressure,Nifedical XL,6.087371733205067
+High Blood Pressure,Azilsartan medoxomil,6.095801146531845
+High Blood Pressure,Spironolactone,6.101989466462076
+High Blood Pressure,Nifedipine,6.105528322440087
+High Blood Pressure,Metoprolol Tartrate,6.113590277777778
+High Blood Pressure,Benazepril,6.1170040684624025
+High Blood Pressure,Cozaar,6.1686051077149555
+High Blood Pressure,Lotrel,6.204510667903525
+High Blood Pressure,Metoprolol,6.275095100406861
+High Blood Pressure,Edarbi,6.2965936840936845
+High Blood Pressure,Furosemide,6.330753968253968
+High Blood Pressure,Guanfacine,6.337702546296296
+High Blood Pressure,Telmisartan,6.348256868173163
+High Blood Pressure,Diovan,6.349411509033603
+High Blood Pressure,Clonidine,6.40939350574136
+High Blood Pressure,Ramipril,6.409574627243898
+High Blood Pressure,Azilsartan medoxomil / chlorthalidone,6.431044384820426
+High Blood Pressure,Edarbyclor,6.464985357042648
+High Blood Pressure,Benicar HCT,6.46678578855137
+High Blood Pressure,Valturna,6.47588899196042
+High Blood Pressure,Altace,6.521275252525252
+High Blood Pressure,Propranolol,6.521465621148239
+High Blood Pressure,Bystolic,6.528215238211277
+High Blood Pressure,Atenolol,6.573143381479444
+High Blood Pressure,Prinivil,6.597222222222222
+High Blood Pressure,Micardis,6.607573033632645
+High Blood Pressure,Diltiazem,6.615630262072932
+High Blood Pressure,Nebivolol,6.618808260887918
+High Blood Pressure,Lasix,6.672833333333332
+High Blood Pressure,Diovan HCT,6.676111326331497
+High Blood Pressure,Lopressor,6.714545545600233
+High Blood Pressure,Hydrochlorothiazide / olmesartan,6.732319036621383
+High Blood Pressure,Tekturna,6.7467585565476185
+High Blood Pressure,Hyzaar,6.784444573283859
+High Blood Pressure,Toprol-XL,6.78700192156638
+High Blood Pressure,Hydrochlorothiazide / lisinopril,6.812385787364404
+High Blood Pressure,Tribenzor,6.825461927292284
+High Blood Pressure,Aliskiren,6.829104999371544
+High Blood Pressure,Enalapril,6.835677083333334
+High Blood Pressure,Hydrochlorothiazide / valsartan,6.869117288961038
+High Blood Pressure,Coreg CR,6.885648148148149
+High Blood Pressure,Benicar,6.946317137611903
+High Blood Pressure,Doxazosin,6.947168852880659
+High Blood Pressure,Catapres-TTS,6.969545454545454
+High Blood Pressure,Olmesartan,7.020216864856096
+High Blood Pressure,Prinzide,7.042361111111111
+High Blood Pressure,Eplerenone,7.057066993464052
+High Blood Pressure,Amlodipine / hydrochlorothiazide / olmesartan,7.078713023088023
+High Blood Pressure,Hydrochlorothiazide / losartan,7.102169472502806
+High Blood Pressure,Terazosin,7.131255411255411
+High Blood Pressure,Moexipril,7.146577380952381
+High Blood Pressure,Methyldopa,7.1757455507455505
+High Blood Pressure,Cartia XT,7.24610229276896
+High Blood Pressure,Tenormin,7.250674603174604
+High Blood Pressure,Aliskiren / hydrochlorothiazide,7.253832304526749
+High Blood Pressure,Univasc,7.293154761904762
+High Blood Pressure,Felodipine,7.35847800925926
+High Blood Pressure,Atenolol / chlorthalidone,7.36954365079365
+High Blood Pressure,Micardis HCT,7.3993827160493835
+High Blood Pressure,Inderal LA,7.498214285714286
+High Blood Pressure,Monopril,7.5
+High Blood Pressure,Maxzide,7.591666666666667
+High Blood Pressure,Cardizem,7.6875
+High Blood Pressure,Amlodipine / olmesartan,7.739632455560134
+High Blood Pressure,Captopril,7.755747053872054
+High Blood Pressure,Hydrochlorothiazide / moexipril,7.777777777777778
+High Blood Pressure,Uniretic,7.777777777777778
+High Blood Pressure,Hydrochlorothiazide / telmisartan,7.792230902777777
+High Blood Pressure,Azor,7.828495076467196
+High Blood Pressure,Bisoprolol,7.8347718253968255
+High Blood Pressure,Tenoretic 50,7.894227994227994
+High Blood Pressure,Aldactazide,8.0
+High Blood Pressure,Hydrochlorothiazide / spironolactone,8.0
+High Blood Pressure,Indapamide,8.0
+High Blood Pressure,Inspra,8.0
+High Blood Pressure,Tarka,8.0
+High Blood Pressure,Tekturna HCT,8.022582304526749
+High Blood Pressure,Trandolapril / verapamil,8.033234126984127
+High Blood Pressure,Minoxidil,8.116666666666667
+High Blood Pressure,Zestoretic,8.260206228956228
+High Blood Pressure,Minipress,8.277777777777779
+High Blood Pressure,Corgard,8.287037037037038
+High Blood Pressure,Exforge HCT,8.3125
+High Blood Pressure,Amlodipine / telmisartan,8.334517045454545
+High Blood Pressure,Acebutolol,8.38125
+High Blood Pressure,Sectral,8.38125
+High Blood Pressure,Twynsta,8.388231271043772
+High Blood Pressure,Avalide,8.398039321789321
+High Blood Pressure,Hydrochlorothiazide / irbesartan,8.402573593073594
+High Blood Pressure,Bendroflumethiazide / nadolol,8.5
+High Blood Pressure,Corzide 80 / 5,8.5
+High Blood Pressure,Plendil,8.546875
+High Blood Pressure,Verelan PM,8.55
+High Blood Pressure,Caduet,8.75
+High Blood Pressure,Reserpine,8.896660052910052
+High Blood Pressure,Fosinopril,9.042361111111111
+High Blood Pressure,Amlodipine / atorvastatin,9.5
